@@ -38,7 +38,7 @@ before we start, caveat emptor &mdash; and no, i am not (just) using this space 
 
 none of what i'm suggesting here requires that one model this project like a business; but of course you should be aware of what the "opponent" is thinking when they ruminate on the market surface. an obvious "threat", or attack vector, is buyout, and as i've pointed out elsewhere, if you build your "app" (or website) in a way that is not "[cool][cool]" or "hard" or "built-to-last", capital will find a way to plunder and undermine your teleology, no matter how well-intentioned. "cool", "hard", and "built-to-last" are not just throw-away terms i'm using here: *their senses are historically and politically truthbearing*.
 
-![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?; accessibility: archive.ph/gs7jD; semantics: archive.ph/rkWiy; vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
+![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?; accessibility: archive.ph/gs7jD; semantics: archive.ph/rkWiy; vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/audits--6nrlsz.jpg "with what must the quality of existence begin?")
 
 ## <a href="https://en.wikipedia.org/wiki/Consideration_of_future_consequences">considerations for consequences</a>
 
@@ -53,6 +53,10 @@ none of what i'm suggesting here requires that one model this project like a bus
 9. ignore paul cockshott, a reductionist
 10. ignore stephen pinker, the stinker, if you can
 11. daniel dennett is not a spinozist (stop trying to make that a thing)
+
+think of the laws
+
+![whose law is it anyway? CAMPBELL'S LAW; GRESHAM'S LAW; POSTEL'S LAW; MOORE'S LAW](https://github.com/nerdfiles/philosophy-io/raw/master/assets/laws--6jjcd1.jpg "you don't just 'fix the laws'")
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
