@@ -30,6 +30,8 @@
 
 <hr />
 
+i don't build anything, if i must be caught "building", without jumpstarting the decolonial engine in mind. thanks for the html (or concept of "linking relation"), timbl, but "fun" and "right" are vacuous system-level [software quality properties][quality] to target for the anything, particularly a world-wide web (lookin' at you, "native apps"). consider this the last manifesto of cyberspace. the web is not yet another [idealized conceptual noun][verbs] to me to let [grow][grow] ignored
+
 before we start, caveat emptor &mdash; and no, i am not (just) using this space to rant about blockchains:
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">UX design is misleading in how it uses the User word to mask the Business word. That&#39;s why it&#39;s a vanity role for employers. Here&#39;s the realities of what the role entails in a graph. <a href="https://t.co/jfXvUYpEkx">pic.twitter.com/jfXvUYpEkx</a></p>&mdash; Stephen Farrugia (@fasterandworse) <a href="https://twitter.com/fasterandworse/status/1528748399528398851?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> 
@@ -70,3 +72,5 @@ some considerations:
 [httpverbs]: https://annevankesteren.nl/2007/10/http-methods
 [codeofcapital]: https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
 [cool]: https://www.w3.org/Provider/Style/URI.html
+[grow]: http://amundsen.com/talks/2017-09-webexpo/2017-09-webexpo.pdf
+[quality]: https://raw.githubusercontent.com/nerdfiles/proposal-planning/master/assets/future-proof-software-systems--table-4.1-quality-properties-of-a-software-system.png
