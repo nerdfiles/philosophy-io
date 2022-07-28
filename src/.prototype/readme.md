@@ -38,6 +38,12 @@ before we start, caveat emptor &mdash; and no, i am not (just) using this space 
 
 none of what i'm suggesting here requires that one model this project like a business; but of course you should be aware of what the "opponent" is thinking when they ruminate on the market surface. an obvious "threat", or attack vector, is buyout, and as i've pointed out elsewhere, if you build your "app" (or website) in a way that is not "[cool][cool]" or "hard" or "built-to-last", capital will find a way to plunder and undermine your teleology, no matter how well-intentioned. "cool", "hard", and "built-to-last" are not just throw-away terms i'm using here: *their senses are historically and politically truthbearing*.
 
+<img src="https://imgflip.com/i/6nrlsz" alt="what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?
+
+1. accessibility: archive.ph/gs7jD 
+2. semantics: archive.ph/rkWiy 
+3. vocabularies: archive.ph/at6QJ;" />
+
 some considerations:
 
 1. web design is a mistake, and [the text(-object) is mobile-friendly][mf]
@@ -47,6 +53,7 @@ some considerations:
 5. don't build (economic) [traps][trap]: use ([html+css][htmlcss])\*hypermedia where and when possible as a goto solution space. use of quick and dirty "[tools][goto]" like wordpress, even djano, or whatever is not your ally. tools introduce intellectual, [monetary][money], linguistic, and [legal][legal] [barriers][gov] (the article is a joke, but where's the lie, given everything i have here outlined above?)
 6. use [verbs][verbs] (algorithmic economics; not just the [http ones][httpverbs])
 7. review [the code of capital][codeofcapital]
+8. if you must get a static website running, try surge dot sh
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
