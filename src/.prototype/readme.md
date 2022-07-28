@@ -42,7 +42,9 @@ some considerations:
 2. [accessibility][a11y][<sup>a11y</sup>][ux] is [security and privacy][security]. over 90% of the web is inaccessible. this is an ecological disaster which we, as a species, cannot continue to ignore. *no*, we cannot "fix it later" because we insist on "setting it and forgetting it" even with our "distributed domain-driven designs" (see eric evans)
 3. DO NOT USE A BLOCKCHAIN [ANTI-COMPUTER][anticomputer] (WITH ANY [HASH-CRACKING ALGORITHM][hashcracking] YOU WILL UNDERMINE MONETIZATION EFFORTS AND ONLY INTRODUCE [A SISYPHEAN BOULDER][sisyphean]): the *promise* of names that are ["unsable" and that are not "memorable"][primer] (*to humans*) is a *ontological axiom*. it is *unethical* to uncritically design and philosophically ground technology architectures in humanism without having read the wealth of critique against humanism stemming not only from black authors but also media philosophers. *no*.
 4. ward against [technology monopoly][techmonopoly]
-5. don't built (economic) [traps][trap]: use ([html+css][htmlcss])\*hypermedia where and when possible as a goto solution space. use of quick and dirty "[tools][goto]" like wordpress, even djano, or whatever is not your ally. tools introduce intellectual, linguistic, and [legal][legal] [barriers][gov] (the article is a joke, but where's the lie, given everything i have here outlined above?)
+5. don't built (economic) [traps][trap]: use ([html+css][htmlcss])\*hypermedia where and when possible as a goto solution space. use of quick and dirty "[tools][goto]" like wordpress, even djano, or whatever is not your ally. tools introduce intellectual, [monetary][money], linguistic, and [legal][legal] [barriers][gov] (the article is a joke, but where's the lie, given everything i have here outlined above?)
+6. use [verbs][verbs] (algorithmic economics; not just the [http ones][httpverbs])
+7. review [the code of capital][codeofcapital]
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
@@ -63,3 +65,7 @@ some considerations:
 [htmlcss]: https://www.webperf.tips/tip/cached-js-misconceptions/
 [gov]: https://sebastiancarlos.medium.com/austria-buys-javascript-from-brendan-eich-3d2aa81e823b
 [legal]: https://www.researchgate.net/publication/306058393_The_legal_theory_of_finance_and_the_financial_instability_hypothesis_Convergences_and_possible_integration
+[money]: https://www.sciencedirect.com/science/article/pii/S0304393219300054
+[verbs]: https://arxiv.org/abs/2104.01868v2
+[httpverbs]: https://annevankesteren.nl/2007/10/http-methods
+[codeofcapital]: https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
