@@ -40,7 +40,7 @@ none of what i'm suggesting here requires that one model this project like a bus
 
 ![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?; accessibility: archive.ph/gs7jD; semantics: archive.ph/rkWiy; vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
 
-some considerations:
+## [considerations for consequences][consequences]
 
 1. web design is a mistake, and [the text(-object) is mobile-friendly][mf]
 2. [accessibility][a11y][<sup>a11y</sup>][ux] is [security and privacy][security]. over 90% of the web is inaccessible. this is an ecological disaster which we, as a species, cannot continue to ignore. *no*, we cannot "fix it later" because we insist on "setting it and forgetting it" even with our "distributed domain-driven designs" (see eric evans)
@@ -50,6 +50,9 @@ some considerations:
 6. use [verbs][verbs] (algorithmic economics; not just the [http ones][httpverbs])
 7. review [the code of capital][codeofcapital]
 8. if you must get a static website running, try surge dot sh
+9. ignore paul cockshott, a reductionist
+10. ignore stephen pinker, the stinker, if you can
+11. daniel dennett is not a spinozist (stop trying to make that a thing)
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
@@ -80,3 +83,4 @@ some considerations:
 [gates]: https://www.wired.com/story/bill-gates-is-so-over-this-pandemic/
 [jumpstart]: https://www.academia.edu/733141/Jumpstarting_the_Decolonial_Engine_Symbolic_Violence_from_Fanon_to_Ch%C3%A1vez
 [mind]: https://wave.webaim.org/report#/https://code.org
+[consequences][https://en.wikipedia.org/wiki/Consideration_of_future_consequences]
