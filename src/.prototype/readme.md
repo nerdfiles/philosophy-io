@@ -54,7 +54,7 @@ none of what i'm suggesting here requires that one model this project like a bus
 10. ignore stephen pinker, the stinker, if you can
 11. daniel dennett is not a spinozist (stop trying to make that a thing)
 
-think of the laws
+don't (just) think of [the laws][rivers]: [laws eat what they are][dark], even voraciously in a [digital dark age][darkage]
 
 ![whose law is it anyway? CAMPBELL'S LAW; GRESHAM'S LAW; POSTEL'S LAW; MOORE'S LAW](https://github.com/nerdfiles/philosophy-io/raw/master/assets/laws--6jjcd1.jpg "one doesn't simply 'fix the laws'")
 
@@ -87,3 +87,6 @@ think of the laws
 [gates]: https://www.wired.com/story/bill-gates-is-so-over-this-pandemic/
 [jumpstart]: https://www.academia.edu/733141/Jumpstarting_the_Decolonial_Engine_Symbolic_Violence_from_Fanon_to_Ch%C3%A1vez
 [mind]: https://wave.webaim.org/report#/https://code.org
+[rivers]: https://www.nationalgeographic.com/travel/article/these-rivers-are-now-considered-people-what-does-that-mean-for-travelers
+[dark]: https://cup.columbia.edu/book/dark-ecology/9780231177528
+[darkage]: https://en.wikipedia.org/wiki/Digital_dark_age
