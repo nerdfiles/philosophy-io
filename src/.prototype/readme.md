@@ -40,7 +40,7 @@ none of what i'm suggesting here requires that one model this project like a bus
 
 ![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?; accessibility: archive.ph/gs7jD; semantics: archive.ph/rkWiy; vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
 
-## [considerations for consequences][consequences]
+## <a href="https://en.wikipedia.org/wiki/Consideration_of_future_consequences">considerations for consequences</a>
 
 1. web design is a mistake, and [the text(-object) is mobile-friendly][mf]
 2. [accessibility][a11y][<sup>a11y</sup>][ux] is [security and privacy][security]. over 90% of the web is inaccessible. this is an ecological disaster which we, as a species, cannot continue to ignore. *no*, we cannot "fix it later" because we insist on "setting it and forgetting it" even with our "distributed domain-driven designs" (see eric evans)
@@ -83,4 +83,3 @@ none of what i'm suggesting here requires that one model this project like a bus
 [gates]: https://www.wired.com/story/bill-gates-is-so-over-this-pandemic/
 [jumpstart]: https://www.academia.edu/733141/Jumpstarting_the_Decolonial_Engine_Symbolic_Violence_from_Fanon_to_Ch%C3%A1vez
 [mind]: https://wave.webaim.org/report#/https://code.org
-[consequences][https://en.wikipedia.org/wiki/Consideration_of_future_consequences]
