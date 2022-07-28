@@ -56,7 +56,7 @@ none of what i'm suggesting here requires that one model this project like a bus
 
 think of the laws
 
-![whose law is it anyway? CAMPBELL'S LAW; GRESHAM'S LAW; POSTEL'S LAW; MOORE'S LAW](https://github.com/nerdfiles/philosophy-io/raw/master/assets/laws--6jjcd1.jpg "you don't just 'fix the laws'")
+![whose law is it anyway? CAMPBELL'S LAW; GRESHAM'S LAW; POSTEL'S LAW; MOORE'S LAW](https://github.com/nerdfiles/philosophy-io/raw/master/assets/laws--6jjcd1.jpg "one doesn't simply 'fix the laws'")
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
