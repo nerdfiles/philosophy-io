@@ -1,6 +1,6 @@
 # philosophy.io
 
-do not publish this api without [hypermediation][hateoas]
+*do not publish this api without [hypermediation][hateoas]*
 
 ## idea provenance
 
