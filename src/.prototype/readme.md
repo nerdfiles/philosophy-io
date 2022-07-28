@@ -38,11 +38,7 @@ before we start, caveat emptor &mdash; and no, i am not (just) using this space 
 
 none of what i'm suggesting here requires that one model this project like a business; but of course you should be aware of what the "opponent" is thinking when they ruminate on the market surface. an obvious "threat", or attack vector, is buyout, and as i've pointed out elsewhere, if you build your "app" (or website) in a way that is not "[cool][cool]" or "hard" or "built-to-last", capital will find a way to plunder and undermine your teleology, no matter how well-intentioned. "cool", "hard", and "built-to-last" are not just throw-away terms i'm using here: *their senses are historically and politically truthbearing*.
 
-![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?
-
-1. accessibility: archive.ph/gs7jD 
-2. semantics: archive.ph/rkWiy 
-3. vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
+![what if we AUDITED THE SOFTWARE PRODUCTS STEALING OUR PRIVACY? in the WORLD-WILD WEB?; accessibility: archive.ph/gs7jD; semantics: archive.ph/rkWiy; vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
 
 some considerations:
 
