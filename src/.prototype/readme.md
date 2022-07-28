@@ -30,7 +30,7 @@
 
 <hr />
 
-before we start, caveat emptor:
+before we start, caveat emptor &mdash; and no, i am not (just) using this space to rant about blockchains:
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">UX design is misleading in how it uses the User word to mask the Business word. That&#39;s why it&#39;s a vanity role for employers. Here&#39;s the realities of what the role entails in a graph. <a href="https://t.co/jfXvUYpEkx">pic.twitter.com/jfXvUYpEkx</a></p>&mdash; Stephen Farrugia (@fasterandworse) <a href="https://twitter.com/fasterandworse/status/1528748399528398851?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> 
 
@@ -40,7 +40,7 @@ some considerations:
 
 1. web design is a mistake, and [the text(-object) is mobile-friendly][mf]
 2. [accessibility][a11y][<sup>a11y</sup>][ux] is [security and privacy][security]. over 90% of the web is inaccessible. this is an ecological disaster which we, as a species, cannot continue to ignore. *no*, we cannot "fix it later" because we insist on "setting it and forgetting it" even with our "distributed domain-driven designs" (see eric evans)
-3. DO NOT USE A BLOCKCHAIN (WITH ANY [HASH-CRACKING ALGORITHM][hashcracking] YOU WILL UNDERMINE MONETIZATION EFFORTS AND ONLY INTRODUCE [A SISYPHEAN BOULDER][sisyphean]): the *promise* of names that are ["unsable" and that are not "memorable"][primer] (*to humans*) is a *ontological axiom*. it is *unethical* to uncritically design and philosophically ground technology architectures in humanism without having read the wealth of critique against humanism stemming not only from black authors but also media philosophers. *no*.
+3. DO NOT USE A BLOCKCHAIN [ANTI-COMPUTER][anticomputer] (WITH ANY [HASH-CRACKING ALGORITHM][hashcracking] YOU WILL UNDERMINE MONETIZATION EFFORTS AND ONLY INTRODUCE [A SISYPHEAN BOULDER][sisyphean]): the *promise* of names that are ["unsable" and that are not "memorable"][primer] (*to humans*) is a *ontological axiom*. it is *unethical* to uncritically design and philosophically ground technology architectures in humanism without having read the wealth of critique against humanism stemming not only from black authors but also media philosophers. *no*.
 
 [conway]: http://www.amundsen.com/talks/2016-07-restfest-conway/2016-07-restfest-conway.pdf
 [enforce]: https://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html
@@ -54,3 +54,4 @@ some considerations:
 [security]: https://www.boia.org/blog/accessibility-is-privacy-and-security
 [ux]: https://www.accessibility.uxdesign.cc/
 [mf]: http://motherfuckingwebsite.com/
+[anticomputer]: http://cultureandcommunication.org/galloway/anti-computer
