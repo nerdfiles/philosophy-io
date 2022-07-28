@@ -28,6 +28,8 @@
 	<figcaption>rex heftman. found in <cite>the humane interface</cite></figcaption>
 </figure>
 
+<hr />
+
 before we start, caveat emptor:
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">UX design is misleading in how it uses the User word to mask the Business word. That&#39;s why it&#39;s a vanity role for employers. Here&#39;s the realities of what the role entails in a graph. <a href="https://t.co/jfXvUYpEkx">pic.twitter.com/jfXvUYpEkx</a></p>&mdash; Stephen Farrugia (@fasterandworse) <a href="https://twitter.com/fasterandworse/status/1528748399528398851?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
