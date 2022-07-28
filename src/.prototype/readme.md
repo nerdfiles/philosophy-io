@@ -32,7 +32,7 @@
 
 before we start, caveat emptor:
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">UX design is misleading in how it uses the User word to mask the Business word. That&#39;s why it&#39;s a vanity role for employers. Here&#39;s the realities of what the role entails in a graph. <a href="https://t.co/jfXvUYpEkx">pic.twitter.com/jfXvUYpEkx</a></p>&mdash; Stephen Farrugia (@fasterandworse) <a href="https://twitter.com/fasterandworse/status/1528748399528398851?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">UX design is misleading in how it uses the User word to mask the Business word. That&#39;s why it&#39;s a vanity role for employers. Here&#39;s the realities of what the role entails in a graph. <a href="https://t.co/jfXvUYpEkx">pic.twitter.com/jfXvUYpEkx</a></p>&mdash; Stephen Farrugia (@fasterandworse) <a href="https://twitter.com/fasterandworse/status/1528748399528398851?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> 
 
 none of what i'm suggesting here requires that one model this project like a business; but of course you should be aware of what the "opponent" is thinking when they ruminate on the market surface. an obvious "threat", or attack vector, is buyout, and as i've pointed out elsewhere, if you build your "app" (or website) in a way that is not "cool" or "hard" or "built-to-last", capital will find a way to plunder and undermine your teleology, no matter how well-intentioned. "cool", "hard", and "built-to-last" are not just throw-away terms i'm using here: *their senses are historically and politically truthbearing*.
 
