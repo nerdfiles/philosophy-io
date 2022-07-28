@@ -30,7 +30,7 @@
 
 <hr />
 
-i don't build anything, if i must be caught "building", without jumpstarting the decolonial engine in mind. thanks for the html (or concept of "linking relation"), timbl, but "fun" and "right" are vacuous system-level [software quality properties][quality] to target for the anything, particularly a world-wide web (lookin' at you, "native apps"). consider this the last manifesto of cyberspace. the web is not yet another [idealized conceptual noun][verbs] to me to let [grow][grow] ignored
+i don't build anything, if i must be caught "building", without jumpstarting the decolonial engine in mind. thanks for the html (or concept of "linking relation"), timbl, but "fun" and "right" are vacuous system-level [software quality properties][quality] to target for the anything, particularly a world-wide web (lookin' at you, "native apps"). consider this the last manifesto of cyberspace. the web is not yet another [idealized conceptual noun][verbs] to me to let [grow][grow] ignored (and i don't care what bill gates [thinks][gates])
 
 before we start, caveat emptor &mdash; and no, i am not (just) using this space to rant about blockchains:
 
@@ -74,3 +74,4 @@ some considerations:
 [cool]: https://www.w3.org/Provider/Style/URI.html
 [grow]: http://amundsen.com/talks/2017-09-webexpo/2017-09-webexpo.pdf
 [quality]: https://raw.githubusercontent.com/nerdfiles/proposal-planning/master/assets/future-proof-software-systems--table-4.1-quality-properties-of-a-software-system.png
+[gates]: https://www.wired.com/story/bill-gates-is-so-over-this-pandemic/
