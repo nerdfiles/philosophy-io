@@ -42,7 +42,7 @@ none of what i'm suggesting here requires that one model this project like a bus
 
 1. accessibility: archive.ph/gs7jD 
 2. semantics: archive.ph/rkWiy 
-3. vocabularies: archive.ph/at6QJ](https://imgflip.com/i/6nrlsz "meme")
+3. vocabularies: archive.ph/at6QJ](https://github.com/nerdfiles/philosophy-io/raw/master/assets/6nrlsz.jpg "meme")
 
 some considerations:
 
